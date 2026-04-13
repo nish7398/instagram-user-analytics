@@ -130,10 +130,9 @@ Or open each file in **MySQL Workbench** and run in order:
 
 ## 🧠 What I'd Add Next
 
-- **Python + Pandas** — Pull query results into Python for visualization
 - **Tableau Dashboard** — Visual funnel, retention heatmap, influencer leaderboard
-- **Cohort Analysis** — Track retention of users who signed up in same month
-- **Fraud Scoring** — Weighted bot score using likes + comments + follow ratio
+- **Python Integration** — Pull SQL results into Pandas for deeper analysis
+- **Cohort Analysis** — Track retention of users who signed up in the same month
 
 ---
 
